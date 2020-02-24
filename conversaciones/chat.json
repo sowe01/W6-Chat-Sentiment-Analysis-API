@@ -1,0 +1,156 @@
+[
+    {
+        "idUser": 0,
+        "userName": "jose",
+        "idMessage": 0,
+        "idChat": 0,
+        "text": "Bueno!! que vamos a hacer ..."
+    },
+    {
+        "idUser": 0,
+        "userName": "jose",
+        "idMessage": 1,
+        "idChat": 0,
+        "text": "Hay que ponerse a buscar ya ..."
+    },
+    {
+        "idUser": 1,
+        "userName": "jesus",
+        "idMessage": 2,
+        "idChat": 0,
+        "text": "yo mañana miro cosas en el curro, k casi no me quedan megas este mes"
+    },
+    {
+        "idUser": 2,
+        "userName": "javi",
+        "idMessage": 3,
+        "idChat": 0,
+        "text": "mirar cosas que no me caiga muy lejos"
+    },
+    {
+        "idUser": 1,
+        "userName": "jesus",
+        "idMessage": 4,
+        "idChat": 0,
+        "text": "ok"
+    },
+    {
+        "idUser": 0,
+        "userName": "jose",
+        "idMessage": 5,
+        "idChat": 0,
+        "text": "podemos ir a Asturias"
+    },
+    {
+        "idUser": 3,
+        "userName": "patricia",
+        "idMessage": 6,
+        "idChat": 0,
+        "text": "o Valencia"
+    },
+    {
+        "idUser": 2,
+        "userName": "javi",
+        "idMessage": 7,
+        "idChat": 0,
+        "text": "ehehehh estais volaoss"
+    },
+    {
+        "idUser": 0,
+        "userName": "jose",
+        "idMessage": 8,
+        "idChat": 1,
+        "text": "Vais a venir??"
+    },
+    {
+        "idUser": 4,
+        "userName": "amparo",
+        "idMessage": 9,
+        "idChat": 1,
+        "text": "sip"
+    },
+    {
+        "idUser": 4,
+        "userName": "amparo",
+        "idMessage": 10,
+        "idChat": 0,
+        "text": "Nosotros tb podríamos ir"
+    },
+    {
+        "idUser": 3,
+        "userName": "patricia",
+        "idMessage": 11,
+        "idChat": 0,
+        "text": "Oleee!!"
+    },
+    {
+        "idUser": 3,
+        "userName": "patricia",
+        "idMessage": 12,
+        "idChat": 0,
+        "text": "Jaraíz de la Vera"
+    },
+    {
+        "idUser": 3,
+        "userName": "patricia",
+        "idMessage": 13,
+        "idChat": 0,
+        "text": "Casa de 5 habitaciones -> 270€ todos el fin de semana"
+    },
+    {
+        "idUser": 3,
+        "userName": "patricia",
+        "idMessage": 14,
+        "idChat": 0,
+        "text": "https://www.booking.com/hotel/es/churruca.es.html?aid=1139302;label=valle-del-jerte"
+    },
+    {
+        "idUser": 1,
+        "userName": "jesus",
+        "idMessage": 15,
+        "idChat": 0,
+        "text": "esta dpm, no??"
+    },
+    {
+        "idUser": 0,
+        "userName": "jose",
+        "idMessage": 16,
+        "idChat": 0,
+        "text": "A Javi en cuanto se tome una botella de champán le van a parecer todas iguales"
+    },
+    {
+        "idUser": 4,
+        "userName": "amparo",
+        "idMessage": 17,
+        "idChat": 0,
+        "text": "jajaja"
+    },
+    {
+        "idUser": 0,
+        "userName": "jose",
+        "idMessage": 18,
+        "idChat": 2,
+        "text": "lo reservas tu???"
+    },
+    {
+        "idUser": 3,
+        "userName": "patricia",
+        "idMessage": 19,
+        "idChat": 2,
+        "text": "voy a ello"
+    },
+    {
+        "idUser": 3,
+        "userName": "patricia",
+        "idMessage": 20,
+        "idChat": 0,
+        "text": "reservado!!!!"
+    },
+    {
+        "idUser": 2,
+        "userName": "javi",
+        "idMessage": 21,
+        "idChat": 0,
+        "text": "perfecto!! luego te hago el ingreso"
+    }
+]
